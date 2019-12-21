@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: org.gjt.mm.mysql.Driver
+    url: jdbc:mysql://111.229.108.172:3306/myblog?useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: root
+    password: wonengxxoo_1
+    filters: stat,wall,log4j     #druid监控配置
+　　dbcp2:
+　　  min-idle: 5         #数据库连接池的最小维持连接数
+　　  initial-size: 5     #初始化提供的连接数
+　　  max-total: 5          #最大的连接数
+　　  max-wait-millis: 200        #等待连接获取的最大超时时间
