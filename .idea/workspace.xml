@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe092698-4d1e-4cf3-9b66-7aa786b121ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/parent/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parent/src/main/java/com/example/parent/ParentApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parent/src/main/java/com/example/parent/dto/AnswerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/src/main/java/com/example/demo/dto/BlogDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/site/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/src/main/java/com/example/demo/controller/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/site/src/main/java/com/example/demo/controller/Demo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -85,7 +90,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -162,8 +167,17 @@
       <workItem from="1576852898997" duration="1018000" />
       <workItem from="1576853956166" duration="129000" />
       <workItem from="1576894548407" duration="432000" />
-      <workItem from="1576896363014" duration="295000" />
+      <workItem from="1576896363014" duration="1440000" />
+      <workItem from="1576897832995" duration="2601000" />
     </task>
+    <task id="LOCAL-00001" summary="..">
+      <created>1576896867511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576896867511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,5 +200,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
 </project>
